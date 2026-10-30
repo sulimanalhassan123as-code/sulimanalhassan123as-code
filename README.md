@@ -4,6 +4,10 @@
 
 </div>
 
+## The scene above
+
+A scam message lands on her phone. The shield takes the hit and the traffic gets logged on my side. That loop is the whole job, and every project below exists to make it faster.
+
 ## The short version
 
 I build tools that make life harder for scammers.
