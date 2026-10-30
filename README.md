@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c0e,50:a64d79,100:22d3ee&height=200&section=header&text=Sulieman%20Alhassan&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Anti-fraud%20engineer%20%C2%B7%20Builder%20%C2%B7%20Ghana&descAlignY=60&descSize=17" alt="Sulieman Alhassan — Anti-fraud engineer, builder, Ghana" />
-
-<a href="https://scamwatch-ghana.vercel.app"><img src="https://img.shields.io/badge/ScamWatch%20Ghana-Live-a64d79?style=flat-square&logo=vercel&logoColor=white" alt="ScamWatch Ghana" /></a>
-<img src="https://img.shields.io/github/followers/sulimanalhassan123as-code?label=Followers&style=flat-square&color=22d3ee" alt="Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsulimanalhassan123as-code&query=%24.public_repos&label=Public%20repos&style=flat-square&color=34d399" alt="Public repositories" />
-<img src="https://img.shields.io/badge/Location-Accra%2C%20Ghana-f5c04b?style=flat-square&logo=googlemaps&logoColor=white" alt="Ghana" />
-<img src="https://komarev.com/ghpvc/?username=sulimanalhassan123as-code&style=flat-square&color=a64d79&label=Profile%20views" alt="Profile views" />
+<a href="https://scamwatch-ghana.vercel.app"><img src="https://raw.githubusercontent.com/sulimanalhassan123as-code/profile-assets/main/banner_animated.gif" width="100%" alt="Animated scene: a woman at home receiving scam messages, a shield blocking them, and Sulieman at his monitor watching over the traffic" /></a>
 
 </div>
 
