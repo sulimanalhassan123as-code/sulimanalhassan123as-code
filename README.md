@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://scamwatch-ghana.vercel.app"><img src="https://raw.githubusercontent.com/sulimanalhassan123as-code/profile-assets/main/banner_animated.gif" width="100%" alt="Animated scene: a woman at home receiving scam messages, a shield blocking them, and Sulieman at his monitor watching over the traffic" /></a>
+<a href="https://scamwatch-ghana.vercel.app"><img src="https://raw.githubusercontent.com/sulimanalhassan123as-code/profile-assets/main/banner_v2.gif" width="100%" alt="Animated scene: a woman at home receiving scam messages, a shield blocking them, and Sulieman at his monitor watching over the traffic" /></a>
 
 </div>
 
